@@ -44,7 +44,3 @@ chmod +x i.sh
 
 - 脚本默认使用 Visual Studio Code 的标准 Bundle ID: `com.microsoft.VSCode`
 - 如果你使用的是 VSCode 的其他版本（如 Insiders），请修改 `BUNDLE_ID` 变量
-
-## 授权
-
-MIT License
